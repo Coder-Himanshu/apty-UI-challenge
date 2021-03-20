@@ -1,0 +1,81 @@
+[
+
+  {
+    "url": "https://spiderimg.amarujala.com/assets/images/2020/03/16/750x506/coronavirus-italy_1584354368.jpeg",
+    "subBtn1": "Pizza",
+    "subBtn2": "Art",
+    "mainTitle": "Italy",
+    "subTitle": "All three of Europe's active volcanoes are in Italy."
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/KeizersgrachtReguliersgrachtAmsterdam.jpg/800px-KeizersgrachtReguliersgrachtAmsterdam.jpg",
+    "subBtn1": "Rijksmuseum",
+    "subBtn2": "Jordaan",
+    "mainTitle": "Amsterdam",
+    "subTitle": "Amsterdam is famous for its canals, beautiful houses."
+  },
+
+  {
+    "url": "https://francetravelblog.com/wp-content/uploads/2020/03/What-is-Lyon-France-Known-For-960x540.jpg",
+    "subBtn1": "marrons glacés",
+    "subBtn2": "sausage",
+    "mainTitle": "Lyon",
+    "subTitle": "The city is known for its historical and architectural landmarks"
+  },
+
+  {
+    "url": "https://img.emg-services.net/HtmlPages/HtmlPage4239/switzerland-header-2.jpg",
+    "subBtn1": "Trains",
+    "subBtn2": "Swiss Village",
+    "mainTitle": "Switzerland",
+    "subTitle": " The amazing mountains, heaps of lakes and beautiful villages."
+  },
+
+  {
+    "url": "https://cdn.internationalliving.com/wp-content/uploads/2020/02/Germany-3.jpg",
+    "subBtn1": "Castles",
+    "subBtn2": "Cars",
+    "mainTitle": "Germany",
+    "subTitle": "One-third of Germany is still covered in forests and woodlands"
+  },
+
+  {
+    "url": "https://www.planetware.com/photos-large/F/france-paris-eiffel-tower.jpg",
+    "subBtn1": "cruise",
+    "subBtn2": "Eiffel Tower",
+    "mainTitle": "Paris",
+    "subTitle": " it’s no surprise that Paris’s metro network has a few secrets"
+  },
+
+  {
+    "url": "https://www.costacruises.com/content/dam/costa/inventory-assets/countries/PER/PER.jpg.image.1440.523.high.jpg",
+    "subBtn1": "Amazon jungle",
+    "subBtn2": "Pisco",
+    "mainTitle": "Peru",
+    "subTitle": "Peru's main exports are copper, gold, zinc and more"
+  },
+
+  {
+    "url": "https://www.costacruises.co.uk/content/dam/costa/inventory-assets/countries/IND/IND.jpg.image.1440.523.high.jpg",
+    "subBtn1": "Taj Mahal",
+    "subBtn2": "Delicious Indian food",
+    "mainTitle": "India",
+    "subTitle": "India is the 7th largest country in the world."
+  },
+
+  {
+    "url": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/dcd8747d83e5f970d3c0b40be95013d5bbf0d17c/big-00866f2bb785bc7ead25f8666a4dcb67.jpg",
+    "subBtn1": "Viking",
+    "subBtn2": "museums",
+    "mainTitle": "Oslo",
+    "subTitle": "Oslo is famous for its Viking and nautical history, museums."
+  },
+
+  {
+    "url": "https://cdn.aizenconsulting.com/img/4159d16351e6416ea6b160aef955aed7e4d90eed",
+    "subBtn1": "Chilled",
+    "subBtn2": "Living City",
+    "mainTitle": "Norway",
+    "subTitle": "The monetary unit in Norway is the Norwegian krone, NOK"
+  }
+]

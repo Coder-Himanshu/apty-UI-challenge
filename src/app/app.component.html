@@ -1,0 +1,25 @@
+<div class="mainCard">
+<h2>Discover great places to visit</h2>
+<div class="sidebar">
+  <a href="#home"><i class="fa fa-fw fa-home"></i></a>
+  <a href="#services"><i class="fa fa-suitcase"></i></a>
+  <a href="#clients"><i class="fa fa-compass"></i></a>
+  <a href="#contact"><i class="fa fa-bell"></i></a>
+  <a href="#setting"><i class="fa fa-cog"></i></a>
+  <a href="#logout" class="logout"><i class="fa fa-sign-out"></i></a>
+</div>
+<div class="row">  
+   <div class="column" *ngFor="let data of response">
+    <div class="card">
+    <input type="radio" class="radioBtnCss">
+    <img src="{{data.url}}">
+    <div class="btnLabel">
+    <button type="button" class="btn btn-warning">{{data.subBtn1}}</button>&nbsp;
+    <button type="button" class="btn btn-warning">{{data.subBtn2}}</button>
+    </div>
+      <h3>{{data.mainTitle}}</h3>
+      <p>{{data.subTitle}}</p>
+    </div>
+  </div>
+  </div>
+</div>
